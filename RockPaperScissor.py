@@ -1,4 +1,4 @@
-__author__ = "Yash Khatri, Sudipta Mallick Das and Martina Öqvist"
+__author__ = "Yash Khatri"
 
 import random
 
